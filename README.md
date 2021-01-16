@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there, I'm Max
 
-<!--
-**MaxLaurieHutchinson/MaxLaurieHutchinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Lead Data Engineer @ [VRAI](https://vraisimulation.com/)  | Aspiring to become a Cloud Data Architect. 
+I live and Work in Newcastle Upon Tyne, England
 
-Here are some ideas to get you started:
+### ⚡ Languages and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* (Programming languages): C#, SQL, HTML
+* (Databases and Data Stores): SQL Server, Azure Storage.
+* (Technologies): Azure, GitHub, Visual Studio, Azure DevOps, Azure Functions
+
+(Key Skills): 
+* Full Stack Development
+* C# Engineer
+* UX Design
+* Data Analytics
+* ETL
+* Data Ingestion
+* Azure Serverless Architecure
+* Professional Spaghetti Un-jiggler.
+
+
+### ☕ Work
+
+My Current Role @ [VRAI](https://vraisimulation.com/) is to architect, develop and engineer the next level of cutting edge enterprise-grade cloud data infrastructure, Data ingestion, serverless API’s and work with brilliant like-minded people to bring the next generation of machine learning and data analytics to the HEAT Platform and VRAI.
+
+
+### Links 
+
+* [LinkedIn](https://www.linkedin.com/in/max-hutchinson-02341153/)
+
+
