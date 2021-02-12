@@ -16,7 +16,7 @@ I live and Work in Newcastle Upon Tyne, England
 * Data Analytics
 * ETL
 * Data Ingestion
-* Azure Serverless Architecure
+* Azure Serverless Architecture
 * Professional Spaghetti Un-jiggler.
 
 
