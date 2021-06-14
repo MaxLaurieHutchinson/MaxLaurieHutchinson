@@ -1,22 +1,24 @@
 ## Hi there, I'm Max
 
 I'm a Lead Data Engineer @ [VRAI](https://vraisimulation.com/)  | Aspiring to become a Cloud Data Architect. 
-I live and Work in Newcastle Upon Tyne, England
+I live and work in Newcastle Upon Tyne, England
 
 ### ⚡ Languages and Technologies
 
-* (Programming languages): C#, SQL, HTML
-* (Databases and Data Stores): SQL Server, Azure Storage.
-* (Technologies): Azure, GitHub, Visual Studio, Azure DevOps, Azure Functions
+* (Programming languages): C#, LINQ, SQL, HTML.
+* (Databases and Persistence Stores): SQL Server, Azure Storage.
+* (Technologies): Azure, GitHub, Visual Studio, Azure DevOps, Azure Functions.
+* (Preferred Architecture): Serverless, PaaS, FaaS, Containers.
 
 (Key Skills): 
 * Full Stack Development
 * C# Engineer
 * UX Design
-* Data Analytics
+* Data Engineering & Analytics
 * ETL
 * Data Ingestion
-* Azure Serverless Architecture
+* Azure Solution Architect
+* Serverless Architecture
 * Professional Spaghetti Un-jiggler.
 
 
