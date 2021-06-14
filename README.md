@@ -24,7 +24,7 @@ I live and work in Newcastle Upon Tyne, England
 
 ### ☕ Work
 
-My Current Role @ [VRAI](https://vraisimulation.com/) is to architect, develop and engineer the next level of cutting edge enterprise-grade cloud data infrastructure, Data ingestion, serverless API’s and work with brilliant like-minded people to bring the next generation of machine learning and data analytics to the HEAT Platform and VRAI.
+My Current Role @ [VRAI](https://vraisimulation.com/) is to architect, develop and engineer the next level of cutting edge enterprise-grade cloud data infrastructure, data ingestion, serverless API’s and work with brilliant like-minded people to bring the next generation of machine learning and data analytics to the HEAT Platform and VRAI.
 
 
 ### Links 
