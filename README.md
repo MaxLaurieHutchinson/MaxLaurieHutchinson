@@ -1,7 +1,8 @@
 ## Hi there, I'm Max
 
-I'm a Lead Data Engineer @ [VRAI](https://vraisimulation.com/)  | Aspiring to become a Cloud Data Architect. 
-I live and work in Newcastle Upon Tyne, England
+I'm a Lead Data Engineer @ [SomoGlobal](https://www.somoglobal.com/)  | Aspiring to become a Cloud Data Architect. 
+I live and work in Newcastle Upon Tyne, England.
+i work Remote via London, Waterloo office.
 
 ### ⚡ Languages and Technologies
 
@@ -24,7 +25,7 @@ I live and work in Newcastle Upon Tyne, England
 
 ### ☕ Work
 
-My Current Role @ [VRAI](https://vraisimulation.com/) is to architect, develop and engineer the next level of cutting edge enterprise-grade cloud data infrastructure, data ingestion, serverless API’s and work with brilliant like-minded people to bring the next generation of machine learning and data analytics to the HEAT Platform and VRAI.
+My Current Role @ [SomoGlobal](https://www.somoglobal.com/) is to architect, develop and engineer the next level of cutting edge enterprise-grade cloud data infrastructure, data ingestion, serverless API’s and work with brilliant like-minded people to bring the next generation of Event-based architecture to Somo's Clients.
 
 
 ### Links 
