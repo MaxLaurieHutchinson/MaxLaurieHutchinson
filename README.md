@@ -2,7 +2,7 @@
 
 I'm a Lead Data Engineer @ [SomoGlobal](https://www.somoglobal.com/)  | Aspiring to become a Cloud Data Architect. 
 I live and work in Newcastle Upon Tyne, England.
-i work Remote via London, Waterloo office.
+I work Remote via London, Waterloo office.
 
 ### ⚡ Languages and Technologies
 
