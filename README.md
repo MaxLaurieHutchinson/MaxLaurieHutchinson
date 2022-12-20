@@ -1,6 +1,6 @@
 ## Hi there, I'm Max
 
-I'm a Lead Engineer @ [SomoGlobal](https://www.somoglobal.com/)  | Aspiring to become a Cloud Data Architect. 
+I'm a Technical Architect @ [SomoGlobal](https://www.somoglobal.com/) 
 I live and work in Newcastle Upon Tyne, England.
 I work Remote via London, Waterloo office.
 
