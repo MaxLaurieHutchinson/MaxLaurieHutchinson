@@ -1,10 +1,8 @@
-## Max, the Systems Architect and Cloud Enthusiast
+## 👋 Greetings, I'm Max the Systems Architect and Cloud Enthusiast
 
-Hailing from Newcastle Upon Tyne, England, Max is a Systems Architect at [CI&T](https://www.ciandt.com/), working remotely; but often in the London Waterloo Office.
+📍 Based in Newcastle Upon Tyne, England, I'm a Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
 
-## 👋 Greetings, I'm Max the Systems Architect
-
-📍 Based in Newcastle Upon Tyne, England, I'm a seasoned Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
+## Working @ [CI&T](https://www.ciandt.com/) - working remotely, often in the London Waterloo Office.
 
 ### 🔧 Skills & Expertise
 
@@ -26,7 +24,7 @@ Hailing from Newcastle Upon Tyne, England, Max is a Systems Architect at [CI&T](
 ### 🚀 Projects & Accomplishments
 
 * Architected and implemented cloud-native, scalable systems for multiple clients
-* Designed and developed a serverless & scaleable VR data ingestion service for real-time analytics
+* Designed and developed a serverless & scalable VR data ingestion service for real-time analytics
 * Successfully migrated a monolithic application to a microservices architecture, improving resilience and maintainability
 * Mentored and led a team of engineers in adopting best practices in software development, cloud architecture, DDD, Clean Architecture, and key software patterns
 
@@ -34,10 +32,9 @@ Hailing from Newcastle Upon Tyne, England, Max is a Systems Architect at [CI&T](
 
 I'm a firm believer in lifelong learning and always strive to stay up-to-date with the latest technology trends and best practices. I enjoy attending conferences, participating in workshops, and sharing my knowledge through blog posts and presentations.
 
-
 ### ☕ Max's Professional Journey
 
-At [CI&T](https://www.ciandt.com/), Max Architects, develops, and engineers cutting-edge cloud data infrastructure, data ingestion, and serverless APIs. Collaborating with a team of skilled professionals, Max contributes to the next generation of event-based architecture for CI&T's clients.
+At [CI&T](https://www.ciandt.com/), I architect, develop, and engineer cutting-edge cloud data infrastructure, data ingestion, and serverless APIs. Collaborating with a team of skilled professionals, I contribute to the next generation of event-based architecture for CI&T's clients.
 
 ### 🌐 Connect with Max
 
