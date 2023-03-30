@@ -1,4 +1,4 @@
-## 👋 Greetings, I'm Max the Systems Architect and Cloud Enthusiast
+## 👋 Greetings, I'm Max a Systems Architect and Cloud Enthusiast
 
 📍 Based in Newcastle Upon Tyne, England, I'm a Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
 
