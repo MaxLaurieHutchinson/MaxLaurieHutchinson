@@ -1,6 +1,6 @@
 ## 👋 Greetings, I'm Max a Systems Architect and Cloud Enthusiast
 
-📍 Based in Newcastle Upon Tyne, England, I'm a Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
+I'm a Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
 
 ### ☕ Currently Working @ [CI&T](https://www.ciandt.com/) 
 * Working remotely, often in the London Waterloo Office.
