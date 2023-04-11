@@ -42,3 +42,4 @@ At [CI&T](https://www.ciandt.com/), I architect, develop, and engineer cutting-e
 * [LinkedIn](https://www.linkedin.com/in/maxlauriehutchinson)
 * [Twitter](https://twitter.com/MaxLHutchinson)
 * [Personal Website](https://www.maxlauriehutchinson.co.uk/)
+* [Medium](https://medium.com/@MaxLaurieHutchinson)
