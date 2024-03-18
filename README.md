@@ -1,26 +1,23 @@
-## 👋 Greetings, I'm Max a Systems Architect and Cloud Enthusiast
+## 👋 Greetings, I'm Max a Technical Architect and Cloud Enthusiast
 
-I'm a Systems Architect passionate about designing, developing, and implementing scalable and robust systems to solve complex challenges. My expertise lies in cloud computing, serverless architectures, Microsoft technologies, APIs, microservices, Domain-Driven Design (DDD), Clean Architecture, and software patterns.
+I am an Aspiring Technical Architect with over a decade of experience in the technology industry. Currently, I am honing my skills in architectural roles, specializing in designing and implementing data-intensive applications. My expertise lies in addressing complex scalability and data transformation challenges, thereby delivering customized solutions that drive significant business value.
 
-### ☕ Currently Working @ [CI&T](https://www.ciandt.com/) 
-* Working remotely, often in the London Waterloo Office.
+### 🌱 Professional Growth and Aspirations
+I am actively seeking opportunities to expand my experience in Azure cloud, .Net, C#, Serverless, and Microservice Solutions. My commitment to continuous learning fuels my goal to lead and innovate in user-centric projects, consistently evolving my skills to meet the dynamic needs of the industry.
 
 ### 🔧 Skills & Expertise
 
 * **Programming Languages:** C#, LINQ, SQL, Python
-* **Cloud Platforms:** Azure
-* **Technologies:** Azure Functions, Logic Apps, Service Bus, Event Hubs, Azure DevOps, GitHub, Visual Studio
+* **Cloud Platforms:** Azure (Azure Functions, Logic Apps, Service Bus, Event Hubs)
+* **Technologies:** .Net, Entity Framework Core, Hot Chocolate, REST, GraphQL, CI/CD
 * **Databases:** SQL Server, Azure Storage, Cosmos DB, Azure SQL
 * **Preferred Architecture:** Serverless, PaaS, FaaS, Containers
 * **Design Principles:** Domain-Driven Design (DDD), Clean Architecture, software patterns
 
-### 🌟 Key Technology Stack
-
-* C#, .Net 6, Entity Framework Core, Hot Chocolate
-* Azure Functions, Logic Apps, Service Bus, Event Hubs
-* RESTful and GraphQL APIs
-* CI/CD with Azure DevOps, GitHub Actions
-* Infrastructure as Code with Azure Resource Manager (ARM) templates
+### 🚀 Key Projects & Accomplishments
+* **CI&T and Somo Global:** Successfully led the integration of GraphQL API and event-driven platforms, implementing microservices and streamlining data flow, resulting in significant cost savings and operational efficiencies.
+* **VRAI:** Architected and led the development of idempotent cloud data ingestion systems using serverless principles, facilitating robust data analytics.
+* **MRI Software:** Transformed legacy business workflows into scalable, automated processes within a SaaS environment, and led the development of a dynamic Data Warehousing system.
 
 ### 🚀 Projects & Accomplishments
 
@@ -31,15 +28,18 @@ I'm a Systems Architect passionate about designing, developing, and implementing
 
 ### 📚 Continuous Learning
 
-I'm a firm believer in lifelong learning and always strive to stay up-to-date with the latest technology trends and best practices. I enjoy attending conferences, participating in workshops, and sharing my knowledge through blog posts and presentations.
+As a firm believer in lifelong learning, I continuously seek to stay ahead of technological advancements. I actively participate in workshops, conferences, and online training, and am currently working towards Azure Certifications.
 
 ### ☕ Max's Professional Journey
 
-At [CI&T](https://www.ciandt.com/), I architect, develop, and engineer cutting-edge cloud data infrastructure, data ingestion, and serverless APIs. Collaborating with a team of skilled professionals, I contribute to the next generation of event-based architecture for CI&T's clients.
+Having worked in various roles from Software Engineer to Technical Architect, I've honed my skills in cloud data infrastructure, serverless APIs, and event-based architectures. My experience includes significant contributions at CI&T, Somo Global, VRAI, and MRI Software, where I've led teams and projects to deliver innovative cloud solutions.
 
 ### 🌐 Connect with Max
 
 * [LinkedIn](https://www.linkedin.com/in/maxlauriehutchinson)
 * [Twitter](https://twitter.com/MaxLHutchinson)
 * [Personal Website](https://www.maxlauriehutchinson.co.uk/)
+* [GitHub](https://github.com/MaxLaurieHutchinson)
 * [Medium](https://medium.com/@MaxLaurieHutchinson)
+
+
