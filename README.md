@@ -15,6 +15,7 @@ I am actively seeking opportunities to expand my experience in Azure cloud, .Net
 * **Design Principles:** Domain-Driven Design (DDD), Clean Architecture, software patterns
 
 ### 🚀 Key Projects & Accomplishments
+* **The Pensions Regulator:** Led the development and deployment of multiple new domains, systems, and microservices to automate “Automatic Enrolment” enforcement cases, handling over £4 trillion into reliable pension schemes. Upskilled and matured the development of several teams and directorates with EDA, DDD, and mature development practices through thought leadership.
 * **CI&T and Somo Global:** Successfully led the integration of GraphQL API and event-driven platforms, implementing microservices and streamlining data flow, resulting in significant cost savings and operational efficiencies.
 * **VRAI:** Architected and led the development of idempotent cloud data ingestion systems using serverless principles, facilitating robust data analytics.
 * **MRI Software:** Transformed legacy business workflows into scalable, automated processes within a SaaS environment, and led the development of a dynamic Data Warehousing system.
@@ -28,7 +29,7 @@ I am actively seeking opportunities to expand my experience in Azure cloud, .Net
 
 ### 📚 Continuous Learning
 
-As a firm believer in lifelong learning, I continuously seek to stay ahead of technological advancements. I actively participate in workshops, conferences, and online training, and am currently working towards Azure Certifications.
+As a firm believer in lifelong learning, I continuously seek to stay ahead of technological advancements. I actively participate in workshops, conferences, and online training.
 
 ### ☕ Max's Professional Journey
 
