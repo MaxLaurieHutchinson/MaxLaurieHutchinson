@@ -53,17 +53,17 @@ enterprise adoption or general model quality.
 
 ## Selected Public Repositories
 
-- [Intention Engine](https://github.com/MaxLaurieHutchinson/Agent-autonomous-intention-engine)
-  - deterministic, file-first work discovery and risk routing with auditable runs
+- **[Intention Engine](https://github.com/MaxLaurieHutchinson/Agent-autonomous-intention-engine):**
+  deterministic, file-first work discovery and risk routing with auditable runs
   and replay.
-- [Marketing Automation System](https://github.com/MaxLaurieHutchinson/marketing-automation-system)
-  - evidence-led research, measurable workflows, human feedback and staged
+- **[Marketing Automation System](https://github.com/MaxLaurieHutchinson/marketing-automation-system):**
+  evidence-led research, measurable workflows, human feedback and staged
   autonomy in a practical teaching system.
-- [Agent Patterns Catalog](https://github.com/MaxLaurieHutchinson/agent-patterns)
-  - runnable Python implementations of planning, tool-use, reliability, memory
-  and event-driven coordination patterns.
-- [Fintech Account Operations](https://github.com/MaxLaurieHutchinson/fintech-account-operations)
-  - explicit domain behaviour, transactional consistency and post-commit effects
+- **[Agent Patterns Catalog](https://github.com/MaxLaurieHutchinson/agent-patterns):**
+  runnable Python implementations of planning, tool-use, reliability, memory and
+  event-driven coordination patterns.
+- **[Fintech Account Operations](https://github.com/MaxLaurieHutchinson/fintech-account-operations):**
+  explicit domain behaviour, transactional consistency and post-commit effects
   in a focused .NET sample.
 
 These repositories are implementation evidence. Maturity, adoption and business
