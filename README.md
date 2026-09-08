@@ -16,11 +16,17 @@ Evidence driven evaluation for Agent Skills using deterministic analysis, behavi
 ### [Intention Engine](https://github.com/MaxLaurieHutchinson/Agent-autonomous-intention-engine)
 A deterministic autonomous decision runtime for discovering work, routing risk and producing replayable, auditable outputs.
 
-### [Quant Systems Lab](https://github.com/MaxLaurieHutchinson/quant-systems-lab)
-Twelve executable C# and .NET labs exploring event driven backtesting, replay, execution workflows, risk controls and observability.
+### [Semantic Packetisation](https://github.com/MaxLaurieHutchinson/Semantic-Packetisation)
+Loss bounded context compression for model handoffs, worker evidence and frontier review, preserving decision critical meaning while reducing repeated context.
+
+### [Constellation](https://github.com/MaxLaurieHutchinson/Constellation)
+A research notebook for extracting reusable architecture mechanisms from tools, systems and experiments, then reducing them to what is actually needed.
 
 ### [Astra Quota Router](https://github.com/MaxLaurieHutchinson/skill-astra-quota-router)
 Risk based model orchestration that keeps high consequence judgement with frontier models while delegating bounded execution with evidence based acceptance.
+
+### [Agent Patterns](https://github.com/MaxLaurieHutchinson/agent-patterns)
+Runnable Python reference implementations for agent orchestration, reliability, memory, coordination and tool use patterns.
 
 ## Current focus
 
