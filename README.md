@@ -1,37 +1,35 @@
-# Max Hutchinson
+<p align="center">
+  <img src="assets/mlh.svg" alt="MLH" width="110" />
+</p>
 
-C# Technology Lead and Technical Architect focused on distributed and deterministic systems.
+<h1 align="center">Max Hutchinson</h1>
 
-I build event-driven platforms that must behave predictably under load, remain operable under failure, and support replayable, auditable workflows. My work spans regulated data platforms, high-throughput ingestion, and integration architectures where correctness and failure isolation matter.
+<p align="center"><strong>Technical Architect + Applied AI Engineer</strong></p>
 
-## What I build
+<p align="center">I design and build dependable AI and distributed systems where state, reliability, observability, recovery and controlled authority matter.</p>
 
-### Platforms
-Distributed systems, integration architecture, ingestion pipelines, and observability-first operations.
+## Selected engineering
 
-### Quant Systems
-Exploratory work on systematic trading system design with an emphasis on determinism, replay semantics, execution workflow modelling, and risk-aware controls. This focuses on infrastructure design principles rather than strategy development.
+### [SEG: Skill Evaluation Graph](https://github.com/MaxLaurieHutchinson/skill-evaluation-graph)
+Evidence driven evaluation for Agent Skills using deterministic analysis, behavioural trials, fail closed gates and verified repair.
 
-### Agentic Systems
-Agent orchestration patterns designed for production: policy gates, tool constraints, evaluation loops, and human-in-the-loop workflows that remain observable and governable.
+### [Intention Engine](https://github.com/MaxLaurieHutchinson/Agent-autonomous-intention-engine)
+A deterministic autonomous decision runtime for discovering work, routing risk and producing replayable, auditable outputs.
 
-## Principles
+### [Quant Systems Lab](https://github.com/MaxLaurieHutchinson/quant-systems-lab)
+Twelve executable C# and .NET labs exploring event driven backtesting, replay, execution workflows, risk controls and observability.
 
-- Radical simplicity
-- Minimise technical debt and system surface area
-- Reduce costs appropriately
-- Enable talent, to talent: strong guardrails, high autonomy
+### [Astra Quota Router](https://github.com/MaxLaurieHutchinson/skill-astra-quota-router)
+Risk based model orchestration that keeps high consequence judgement with frontier models while delegating bounded execution with evidence based acceptance.
 
-## Engineering standards
+## Current focus
 
-- Determinism and replayability by design
-- Operability first (instrumentation, debugging, failure modes)
+`Agentic systems` · `AI evaluation` · `RAG and retrieval` · `Human governed autonomy` · `Distributed systems` · `Reliability` · `Observability`
 
 ## Background
 
-12+ years building C# distributed systems across regulated and high-consequence environments including national regulation, energy platforms, SaaS systems, and real-time telemetry platforms.
+12+ years across production software, regulated data, defence training systems and distributed platforms. Recent work applies those same engineering disciplines to agent orchestration, retrieval, evaluation, guardrails and production AI.
 
-## Contact
+## Elsewhere
 
-LinkedIn: https://www.linkedin.com/in/maxlauriehutchinson  
-Website: https://www.maxlauriehutchinson.co.uk
+[Website](https://www.maxlauriehutchinson.co.uk/) · [LinkedIn](https://www.linkedin.com/in/maxlauriehutchinson/) · [Medium](https://medium.com/@MaxLaurieHutchinson)
